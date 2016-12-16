@@ -1,0 +1,6 @@
+/* Administration notice */
+.carbon-seo-notice { display: none; }
+
+@media screen and (min-width: 783px) and (max-width: 1024px) {
+	#wp-admin-bar-carbon-seo-notice { display: none; }	
+}

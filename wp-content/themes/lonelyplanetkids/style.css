@@ -1,0 +1,16 @@
+/*
+Theme name: Lonely Planet kids
+Description: Custom Theme
+*/
+
+/*
+	Source post-css styles are located in the postcss directory.
+	The compiled bundle is in assets/bundle.css; The README.md
+	file contains instructions how to get the compilation
+	process up & running.
+
+	If you need to make a quick fix, feel free to add CSS
+	below this comment. It will override bundle.css styles.
+*/
+
+p {  }

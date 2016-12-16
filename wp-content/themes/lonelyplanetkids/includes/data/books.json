@@ -1,0 +1,1345 @@
+[
+    {
+        "book_url": "\/kids\/books\/50",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£8.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "New York City Trails",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-New-York-966ac649c57ccd6cfb83e373f53f6e9e.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/usa\/city-trails-new-york-1\/",
+        "description": "Here’s a book about New York that’s seriously streetwise. Discover secrets and stories guaranteed to blow your mind that are definitely off the tourist trail. Find out what's lurking in the pumpkin garden, why you might find cows underground, how eating hotdogs could make you rich and lots more! For readers aged 8 and up.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760342265\n<strong>ISBN AU\/UK:<\/strong> 9781760342258\n<strong> 104 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-New-York-966ac649c57ccd6cfb83e373f53f6e9e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NewYork10-c39f7556e8e3a7fc55d77dedc8e1f57a.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NewYork11-3aaded80f28402fdd8665be45e16b67e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NewYork20-6538f3cd28e2cd80cc1154b047d197d5.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NewYork21-82b9da871e201c681309f0ebcf485f54.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/49",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£8.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Paris City Trails",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-Paris-c0daaf91931e34e95ba84461766b5655.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/france\/city-trails-paris-1\/",
+        "description": "Here’s a book about Paris that’s seriously streetwise. Discover secrets and stories guaranteed to blow your mind that are definitely off the tourist trail. Find out where you can ride a dodo, how to paint the Eiffel Tower, where Paris keeps its historic underpants and lots more! For readers aged 8 and up.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760342241\n<strong>ISBN AU\/UK:<\/strong> 9781760342234\n<strong> 104 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-Paris-c0daaf91931e34e95ba84461766b5655.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Paris8-44587a302e35dc4822761f72863dace3.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Paris9-df5c2a2c7d3182c1a2ee7b593b28c2a7.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Paris12-0511f84d3fba3c8cace649eaf2daf73f.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Paris13-ade50723f4ac2e318598ae49efef08d4.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/48",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£8.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "London City Trails",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-London-2824896615c10df8e259e7ee5987c7af.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/england\/city-trails-london-1\/",
+        "description": "Here’s a book about London that’s seriously streetwise. Discover secrets and stories guaranteed to blow your mind, that are definitely off the tourist trail. Find out how an old parrot hit the headlines, where you can purchase a some tasty brain jam, what the weirdest item ever left on a bus was and lots more! For readers aged 8 and up.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760342289\n<strong>ISBN AU\/UK:<\/strong> 9781760342272\n<strong> 104 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/City-Trails-London-2824896615c10df8e259e7ee5987c7af.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London6-3f67c6795595a83955a863a54645b569.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London7-bbbc980d721637a890486d40d23690fc.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London14-a30eb899ad53c13998a7bd6887d38eb6.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London15-a2fccaaa9d2c8be32aa739c1a4ff43bb.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London16-b785d65dbd057ac8b227de6340d2392d.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/London17-3fb5880962bccaebd9a4af37b38db235.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/47",
+        "prices": [
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Doodle Spots!",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Doodle-spot-d49ca89a627a5808be18b69abc540d13.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/doodle-spots-1\/",
+        "description": "What a lot of things to spot! This bright and charming book combines the challenge of I- spy, the fun of a search and find book and the creativity of a sketchpad and a colouring book! With a scene for any destination, children aged 5 and up can get involved with every page, no matter where they are. Packed with bold illustrations from award winning artist, Thomas Flintham, there are hours of fun to be had. Look out for the items in the I-spy grid, find and colour them in a detailed search scene, then create your own fun scenes on the next page. &lt;\/br&gt; From the seaside to the ski slopes to the shopping mall, there's something for everyone. With points to score on every page, the whole family can get involved. Who will spot the lot?",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760343460\n<strong>ISBN AU\/UK:<\/strong>\n<strong> 100 <\/strong> pages | <strong>Dimensions:<\/strong> 240mm x 185mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/Doodle-spot-d49ca89a627a5808be18b69abc540d13.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot4-4f3c0f0e3bebffdca0b803aed3666c6c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot5-954249c82a90a22b8137b9be22015afa.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot6-389552a2c5300cf3064b759bd7d3661e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot7-ab4d9fbaf6157fc20aa4f7190e1ad7b0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot18-2eda1d825c69fcae60c366b4a14e992c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot19-5aa8e03785e2557eb334cb51aa3c06c1.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot20-a7b09c4cfa737c7bfa7b7575fdfbff6b.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot21-ca515e615ca362e1d4b3653f8eb8e8d1.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/46",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$17.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Spot the Lot!",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Spot-the-lot-2d833e829a5e835df4cd92c8e66968a4.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/spot-the-lot-1\/",
+        "description": "What a lot of things to spot! This bright and charming book combines the challenge of I- spy, the fun of a search and find book and the creativity of a sketchpad and a colouring book! With a scene for any destination, children aged 5 and up can get involved with every page, no matter where they are. Packed with bold illustrations from award winning artist, Thomas Flintham, there are hours of fun to be had. Look out for the items in the I-spy grid, find and colour them in a detailed search scene, then create your own fun scenes on the next page. &lt;\/br&gt; From the seaside to the ski slopes to the shopping mall, there's something for everyone. With points to score on every page, the whole family can get involved. Who will spot the lot?",
+        "meta_data": "<strong>ISBN US:<\/strong>\n<strong>ISBN AU\/UK:<\/strong> 9781760341022\n<strong> 100 <\/strong> pages | <strong>Dimensions:<\/strong> 240mm x 185mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/Spot-the-lot-2d833e829a5e835df4cd92c8e66968a4.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot4-4f3c0f0e3bebffdca0b803aed3666c6c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot5-954249c82a90a22b8137b9be22015afa.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot6-389552a2c5300cf3064b759bd7d3661e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot7-ab4d9fbaf6157fc20aa4f7190e1ad7b0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot18-2eda1d825c69fcae60c366b4a14e992c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot19-5aa8e03785e2557eb334cb51aa3c06c1.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot20-a7b09c4cfa737c7bfa7b7575fdfbff6b.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SpotTheLot21-ca515e615ca362e1d4b3653f8eb8e8d1.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/45",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "My Family Travel Map",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/My-Family-Travel-Map-45d06572abb1e952c74d2607816a8ecb.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/my-family-travel-map-1\/",
+        "description": "Create a unique map that’s totally personal to your family’s travels.  This pull-out interactive world map includes over 180 colourful stickers to show where you’ve been and where you want to go, plus hundreds of fascinating facts on the back.  With a super bright neon cover, this is the perfect gift for explorers and dreamers everywhere.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760341015\n<strong>ISBN AU\/UK:<\/strong> 9781760341015\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/My-Family-Travel-Map-45d06572abb1e952c74d2607816a8ecb.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamilyMap1-56f2d801e9837118e919582cd96d7d39.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamilyMap2-12addabc12535eb453d07f02e49d4fb5.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamilyMap3-bf4cc49ba80c42d2de3b6e66f3e7ea56.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamilyMap4-480c17d96f7e61cfc226d81231596f2b.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/44",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£8.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$2.99"
+            }
+        ],
+        "title": "My Travel Journal",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/My-Travel-Journal-4ec1d355a29054b4b3756a717c0dfeff.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/my-travel-journal-1\/",
+        "description": "Never forget an adventure with this bright journal from Lonely Planet Kids.  With fun illustrations, space to write, draw, collage and colour – the finished journal will be a wonderful scrapbook to treasure forever.  It’s a must-have item for any trip.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760341008\n<strong>ISBN AU\/UK:<\/strong> 9781760341008\n<strong> 72 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/My-Travel-Journal-4ec1d355a29054b4b3756a717c0dfeff.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal1-4d5290a332f1fba4b600be32a7c0dae5.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal2-62c1de97b453f1fc716d98eb42584fbb.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal3-5b4d039bb5b5d25dd7d8f77f21abc2fa.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal4-7ccf3ebe25c035560e5de98e2ec97ad6.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal5-201a7879ea8e35a6c2aee167b98abadd.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/TravelJournal6-3e0abd4b383b3b08faf5ec1899d68de3.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/43",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$11.99"
+            }
+        ],
+        "title": "Boredom Buster (North and Latin American edition)",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Boredom-Buster-1-ROW-7344bca473dbf4cfe0de6a793218977d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/boredom-buster-us-1\/",
+        "description": "Make ‘are we nearly there yet?’ a thing of the past. This brilliant book of games for the whole family is guaranteed to make any journey more competitive and a lot more fun. Packed with word games, memory games, spotting games, counting games, solo games, silly games and lots more.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760341060\n<strong>ISBN AU\/UK:<\/strong> 9781760341053\n<strong> 128 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/Boredom-Buster-1-ROW-7344bca473dbf4cfe0de6a793218977d.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster1-6c3516230a3365dac5a4e0b368dc4e46.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster2-7f4540902d281a856fa8282a5fba22b5.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster3-d199a2e163cf984e6ba96bc5f204df60.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster4-9a3f4478ec9078136763b2c4e374e9f2.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster5-62d93565011b288a2898f6616b3bf292.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster6-5e035cf275b79dfbc6389eee8e0cdf1f.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/42",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$11.99"
+            }
+        ],
+        "title": "Boredom Buster (AU\/UK edition)",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Boredom-Buster-1-ROW-7344bca473dbf4cfe0de6a793218977d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/boredom-buster-1\/",
+        "description": "Make ‘are we nearly there yet?’ a thing of the past. This brilliant book of games for the whole family is guaranteed to make any journey more competitive and a lot more fun. Packed with word games, memory games, spotting games, counting games, solo games, silly games and lots more.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760341060\n<strong>ISBN AU\/UK:<\/strong> 9781760341053\n<strong> 128 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/Boredom-Buster-1-ROW-7344bca473dbf4cfe0de6a793218977d.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster1-6c3516230a3365dac5a4e0b368dc4e46.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster2-7f4540902d281a856fa8282a5fba22b5.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster3-d199a2e163cf984e6ba96bc5f204df60.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster4-9a3f4478ec9078136763b2c4e374e9f2.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster5-62d93565011b288a2898f6616b3bf292.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BoredomBuster6-5e035cf275b79dfbc6389eee8e0cdf1f.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/41",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Pop-Up New York",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Pop-up-New-York-30759b054034d9e99d588f843bc83063.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/usa\/pop-up-new-york-1\/",
+        "description": "New York will come alive with this beautiful, colourful pop-up book from Lonely Planet Kids. The perfect introduction to the magic of New York for any age, this beautifully illustrated, stylish look at the city’s iconic landmarks will  kickstart the travel bug in young explorers! Includes pop-ups of Brooklyn Bridge, the Statue of Liberty and more.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760343378\n<strong>ISBN AU\/UK:<\/strong> 9781760343378\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 126mm x 156mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/40",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Pop-Up Paris",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Pop-up-Paris-86d9934f3f9ca5a945345b3350173c72.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/france\/pop-up-paris-1\/",
+        "description": "Paris will come alive with this beautiful, colourful pop-up book from Lonely Planet Kids. The perfect introduction to the magic of Paris for any age, this beautifully illustrated, stylish look at the city’s iconic landmarks will  kickstart the travel bug in young explorers! Includes pop-ups of the Eiffel Tower, the Moulin Rouge and more.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760343354\n<strong>ISBN AU\/UK:<\/strong> 9781760343354\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 126mm x 156mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/39",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$14.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Pop-Up London",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/Pop-up-London-5d53ab227aaf41f1d4aebbdc8b935c62.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/england\/pop-up-london-1\/",
+        "description": "London will come alive with this beautiful, colourful pop-up book from Lonely Planet Kids. The perfect introduction to the magic of London for any age, this beautifully illustrated, stylish look at the city’s iconic landmarks will  kickstart the travel bug in young explorers! Includes pop-ups of Buckingham Palace, the Tower of London and more.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760343392\n<strong>ISBN AU\/UK:<\/strong> 9781760343392\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 126mm x 156mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/38",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Let's Explore... Safari 1",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-safari-1-356ea6257fe2881c1196bf85371ed217.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/lets-explore-safari-1-book\/",
+        "description": "Sticker activity books with over 250 stickers. Explorers aged 5 and up will love discovering the world's most amazing jungles in Let's Explore... Safari. Things are about to get really wild! Join your guides Marco and Amelia on a jeep safari in Africa, and keep your eyes peeled for some incredible animals. Spot the big five, discover who's drinking at the waterhole, find out about some true animal superheroes and loads more. An African adventure awaits. Let's explore!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760340391\n<strong>ISBN AU\/UK:<\/strong> 9781760340391\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 220mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-safari-1-356ea6257fe2881c1196bf85371ed217.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/01-dc12093da74fe3f80e8eeb320be85a24.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/02-97488cd58b33b0de1c1fac49edb305ac.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/03-0b8aa6b2fdee685adbc09444615b1740.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/04-ac1d2e72d14ee39616e357e4becf683b.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/05-073672a40a34f7e8805b0b7b6f156663.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-safari-1\/06-2ff5d5ceeac9edd26d0f7e13a85f1ee4.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/37",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Let's Explore... Ocean 1",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-ocean-1-d38ac9867be55ec83da612eaa338f059.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/lets-explore-ocean-1-book\/",
+        "description": "Sticker activity books with over 250 stickers. Explorers aged 5 and up will love discovering the world's most amazing oceans in Let's Explore... Ocean. Travel under the waves and into a whole other world. Dress explorers Marco and Amelia in their diving gear, learn how to make a submarine-style periscope, decorate reefs with colourful coral and loads more. An undersea adventure awaits. Let's explore!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760340407\n<strong>ISBN AU\/UK:<\/strong> 9781760340407\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 220mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-ocean-1-d38ac9867be55ec83da612eaa338f059.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/01-35fe3469598c92097d4baa4c63595eff.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/02-cffc87f78c32d67e96f3677a07a6888c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/03-ef87d2497650c8408ec922eb71e4998f.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/04-1c40dd896457afef012f82d40b5338e7.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/05-2d1b290cf8d14a185e02d5a0ef71647c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-ocean-1\/06-ab4d442cfbf6a759a4a46245a9ac76c5.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/36",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Let's Explore... Jungle 1",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-jungle-1-e6a3f097da2ec18a33a24556f4c2f568.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/lets-explore-jungle-1-book\/",
+        "description": "Sticker activity books with over 250 stickers. Explorers aged 5 and up will love discovering the world's most amazing jungles in Let's Explore... Jungle. Help explorers Marco and Amelia prepare for their voyage; travel deep into the world's tropical forests, colour exotic birds with fabulous feathers, find your way through the Amazon maze and loads more.  A rainforest adventure awaits. Let's explore!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781760340384\n<strong>ISBN AU\/UK:<\/strong> 9781760340384\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 220mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/lets-explore-jungle-1-e6a3f097da2ec18a33a24556f4c2f568.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/01-abc6ad15add7c25970f64c5090688056.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/02-b17356845006926cc3455e824d151edd.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/03-80900041c9a807bc61993c8b60ceb248.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/04-987bfa49d4949ef9f92ec45f020ad5c2.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/05-b7e0613d07ece8d299b05bf94bd3e6d1.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/lets-explore-jungle-1\/06-85290d2e88454e04d9b24e90906920b0.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/35",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "You Rule!",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/YouRule_cover-232b9d426be81c3cf9a056bdd2315a8c.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/you-rule-1",
+        "description": "Tired of following other people’s rules? Think you can do better? Now’s your chance. We’ll show you how to design a completely new nation from scratch. You’ll choose where it’s located, what it looks like, how many people live in it, what they do and how they travel. You’ll get to decide, organise, govern and judge. You can be king, queen, big chief, emperor, president or dictator. Because right here, right now, you rule!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743607848\n<strong>ISBN AU\/UK:<\/strong> 9781743607831\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 200mm x 200mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/YouRule_cover-232b9d426be81c3cf9a056bdd2315a8c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/YouRule!-01-7f44b590d252f6773cd1aa1ed4665f88.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/YouRule!-02-116e221ea0990834d328299b26bd7559.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/34",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£14.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$29.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$20.00"
+            }
+        ],
+        "title": "The Lonely Planet Kids Travel Book",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/lonely-planet-kids-travel-book-cover-525b0891b8a24f573fbdc44c9deddcb8.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/lonely-planet-kids-travel-book-1\/",
+        "description": "This incredible book covers every country in the world, with amazing facts on sports, wildlife, how people live, their fabulous food and a wide range of quirky insights on every page. With a mix of stunning photography and beautiful illustrations, every country is brought to life before your eyes.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743607749\n<strong>ISBN AU\/UK:<\/strong> 9781743607718\n<strong> 212 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/lonely-planet-kids-travel-book-cover-525b0891b8a24f573fbdc44c9deddcb8.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Travel-01-1663fa9fdcd6817b3dbd78bf3a606050.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Travel-02-84eeaeb2cde3137cd9e5cda8117f2c03.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Travel-03-4d6640fb5253f156ca03ef6dd2be20c0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Travel-04-b4b4b3b26dfdfbdc42f80b6269aabbf0.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/33",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£12.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$24.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$17.99"
+            }
+        ],
+        "title": "How to be an International Spy",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/how-to-be-an-international-spy-cover-88afd2d7b015bfd2b7e60cf894b7d3ab.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/how-to-be-an-international-spy-1\/",
+        "description": "There is no going back, agent. Once you enter this book your training will begin as you join the secret world of spies. Your training will take you through the ranks from recruit to secret agent, giving you a host of skills to put into covert operation immediately. Join us now, we’ll take you deeper undercover as you prepare to be a real spy!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743607732\n<strong>ISBN AU\/UK:<\/strong> 9781743607725\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 265mm x 190mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/how-to-be-an-international-spy-cover-88afd2d7b015bfd2b7e60cf894b7d3ab.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Spy-01-3da6841515a4ad67d2bc7d0b08aa2a63.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Spy-02-6b70ea254ec622b7be55b7f7774ab5a6.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Spy-03-035a4ebb0c1403e168dd9f4005c90fd3.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Spy-04-7c2a4ff57f72c4064bb01e63b9fd28e1.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/32",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$16.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Adventures Around the Globe - World Atlas",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-around-the-globe-cover-5a0746b01af3e396f01a0719f07ee3b4.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-around-the-globe-world-atlas-1",
+        "description": "Our special edition Atlas takes our young readers on a non-stop tour of the continents, adding fun and humour along the way. Introducing each continent in turn with a beautifully illustrated map, then delving  deeper into some of the most iconic sights, readers will love to add stickers and colour to the stunning scenes. There’s also a fold-out surprise – a 3D model of the globe to make, cherish and track the globe-trotting adventure.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743607824\n<strong>ISBN AU\/UK:<\/strong> 9781743607824\n<strong> 72 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-around-the-globe-cover-5a0746b01af3e396f01a0719f07ee3b4.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/AdventuresAround-01-1537749648a6e26f463dabbe5cf54a6a.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/AdventuresAround-02-856e5b9b9db7ef1938cee055050134ca.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/29",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Famous Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-famous-places-cover-cfa668bd65258302be54b3160804fbf0.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-famous-places\/",
+        "description": "Packed full of activities and over 250 stickers! Come and explore some of the most famous places in the world! Explore the ancient pyramids of Mexico, the spectacular Takayama Festival in Japan, and the jumbo sized Addo Elephant Park in South Africa! Decorate real-life locations like the White House in Washington DC, the historic tower of London, and picturesque Lake Pichola in Udaipur and more! Enjoy hours of fun games and puzzles. Each book in the series has its very own fold-out surprise to make and collect.",
+        "meta_data": "<strong>ISBN AU\/UK:<\/strong> 9781743607794\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 230mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-famous-places-cover-cfa668bd65258302be54b3160804fbf0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamousPlaces-01-a44651f3194ab0b2d1bebfbd266cd4c1.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamousPlaces-02-43a1752a56d996267655adbbdc01372b.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamousPlaces-03-3199452c6261955f08023b0056a55011.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/FamousPlaces-04-aa0dc9059153e43087e0d120aae7d2a2.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/30",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Smelly Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-smelly-places-cover-3a6bd7cb7e2c5607c7eb9efabb62a31d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-smelly-places-1\/",
+        "description": "Packed full of activities and over 250 stickers! Poohy! Come and explore some of the smelliest places in the world! Explore the stinky stench of a bat cave in America, the eye-watering aroma of a smokehouse in Scotland, and the heady perfume of a rose oil factory in Turkey!  Decorate real-life locations like smelly Seal island in South Africa, the acrid leather tanneries of Fez, a fabulously fragrant vanilla plantation in Costa Rica and more! Enjoy hours of fun games and puzzles. Each book in the series has its very own fold-out surprise to make and collect.",
+        "meta_data": "<strong>ISBN AU\/UK:<\/strong> 9781743607817\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 230mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-smelly-places-cover-3a6bd7cb7e2c5607c7eb9efabb62a31d.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SmellyPlaces-01-f0c4fc90af68ffd12a4ca33bc179fc8c.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SmellyPlaces-02-467de7ac3dab023eba114559e63fb1a3.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SmellyPlaces-03-fbba06f49592a72ae52954daaa227ce3.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/SmellyPlaces-04-9e1c9997ab4d430b2694db29fdebdeb2.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/31",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Noisy Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-noisy-places-cover-ed68bf91dee4a27bd3c6b2e744e0acad.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-smelly-places-1\/",
+        "description": "Packed full of activities and over 250 stickers! Bash, bang bong! Come and explore some of the noisiest places in the world. Discover the howling monkeys in South America, the floating Star Ferry in Hong Kong, and rockets blasting off in Russia.  Decorate real-life locations like the cascading Iguacu Falls in Brazil, the twisting track at the Grand Prix in Monaco, and the festive Sydney Opera House on New Year's Eve and more! Enjoy hours of fun games and puzzles. Each book in the series has its very own fold-out surprise to make and collect.",
+        "meta_data": "<strong>ISBN AU\/UK:<\/strong> 9781743607800\n<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 230mm x 305mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/adventures-in-noisy-places-cover-ed68bf91dee4a27bd3c6b2e744e0acad.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NoisyPlaces-01-801f43733d43081df012d31bc8272789.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NoisyPlaces-02-753e265064d9dcd81e163a1394b059fd.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NoisyPlaces-03-a0d1249bad9137b23dff46c52d311024.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/NoisyPlaces-04-22f2a518c8b98f3a447b134b0860b715.jpg"
+        ],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/5",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£14.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$29.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$20.00"
+            }
+        ],
+        "title": "Lonely Planet Kids Amazing World Atlas",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/lonely-planet-kids-world-atlas-1-rs-565ea4750ac7a44ef77119315e8d396f.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/kids-amazing-world-atlas",
+        "description": "Discover what an awesome, cool and quirky world we live in. Amazing World Atlas is a mind-blowing mix of history, culture and fascinating facts. Find out what it’s like to be a kid in other countries, see which celebrities come from where and test your wits with our fiendish quizzes. Get ready to take a trip around the world you'll never forget!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743604335\n<strong>ISBN AU\/UK:<\/strong> 9781743603895\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/lonely-planet-kids-world-atlas-1-rs-565ea4750ac7a44ef77119315e8d396f.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-01-38e5676c99ff5a4248e890fc2e4e5626.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-02-f245bc93e249679c1b50a4e87a8779e7.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-03-6df54317a4c4aa9af5c53252548a263a.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-04-b426cc34332da24599ece4529062c285.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-05-6cfe2d119816cf7a7904fc1abbabe119.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-06-eba5148d8067aba48d7231ec94fa90e9.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-07-6d85ca8a3731eb41215161489c27c13d.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-08-753dd4b24f7d42f2dd0dcc8473637646.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-09-c59677c26f1c8c6ece1da26f76adc278.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-10-701038963a08cea4f9933f124932e872.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-11-922cf7b0078f748a3cc886a7c785cb18.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Atlas-12-491b7c61d32e76ea1ef218dfcc48b6ab.jpg"
+        ],
+        "video": "\/\/player.vimeo.com\/video\/104445946",
+        "ebook_text": "eBook available on iBooks and Amazon"
+    },
+    {
+        "book_url": "\/kids\/books\/1",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Busy Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-busy-places-1-rs-41ef72559a89b4b36b803163e376f9d2.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-busy-places-1",
+        "description": "Explore some of the busiest places in the world, from a buzzing Brazilian rainforest to a bustling subway in Tokyo, Japan. Adventures in Busy Places lets you decorate real life locations – like London's Buckingham Palace, a crowded Dubai shopping mall, and majestic Central Park in New York City – with over 250 reusable stickers.",
+        "meta_data": "<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-busy-places-1-rs-41ef72559a89b4b36b803163e376f9d2.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BusyPlaces-01-def0feb5bcd56665bc63840dd96a2c4f.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BusyPlaces-02-f688f2298bc969cb70630a041ce3a9c4.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BusyPlaces-03-27ed177288a4322fe7f2f0aa872052f0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/BusyPlaces-04-32fb2240f7afea082074db9897860fe1.jpg"
+        ],
+        "video": "\/\/player.vimeo.com\/video\/104445945",
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/2",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Cold Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-cold-places-1-rs-860a7614e0249c7436ce1880b7af49c3.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-cold-places-1",
+        "description": "Explore some of the coldest places in the world and encounter their warm-blooded wildlife, from reindeer in Russia to penguins in Antarctica. Adventures in Cold Places lets you decorate real life locations – like a wintery scene in Montreal, chilly ice sculptures in China, and the snowy expanses of the North Pole – with over 250 reusable stickers.",
+        "meta_data": "<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-cold-places-1-rs-860a7614e0249c7436ce1880b7af49c3.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/ColdPlaces-01-d3602c18b037fb59898938e4f4b5baaa.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/ColdPlaces-02-91bb4b2599f29f73deac4102b43d4f65.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/ColdPlaces-03-f029b9c40323bddb62abdff53fbc639e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/ColdPlaces-04-6abbc8c5021ac995c552577f975bd3bd.jpg"
+        ],
+        "video": "\/\/player.vimeo.com\/video\/104445945",
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/3",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£5.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$12.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$9.99"
+            }
+        ],
+        "title": "Adventures in Wild Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-wild-places-1-rs-faad6a4a33ab291106ffd20073fa73b4.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/adventures-in-wild-places-1",
+        "description": "Explore some of the wildest places in the world and encounter their exotic wildlife, from lions in South Africa to giant pandas in China. Adventures in Wild Places lets you decorate real life locations – like the diverse Galápagos Islands and the vast Australian Outback – with over 250 reusable stickers.",
+        "meta_data": "<strong> 48 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/kas-adventures-in-wild-places-1-rs-faad6a4a33ab291106ffd20073fa73b4.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/WildPlaces-01-d2f3dbea692f46af3fa70cc0f5a000d0.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/WildPlaces-02-887a247ed2dfd8259fc077ef4019ac43.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/WildPlaces-03-6007e5051614b2d0793528d5eb8ca8b4.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/WildPlaces-04-51bf636dbfabac858cb88aef300b9ac8.jpg"
+        ],
+        "video": "\/\/player.vimeo.com\/video\/104445945",
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/4",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£12.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$24.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$17.99"
+            }
+        ],
+        "title": "How to be a Space Explorer",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/how-to-be-a-space-explorer-1-rs-5f74f316041501b2615a0fefd05971bf.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/how-to-be-a-space-explorer",
+        "description": "Buckle up! How to be a Space Explorer is a practical manual for all aspiring astronauts, packed with jaw-dropping stories from real-life space exploration. Learn how to navigate black holes, slingshot around Jupiter and survive the freezing depths of space. This book will blast you into the stratosphere, so strap yourself in and enjoy the ride.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743604342\n<strong>ISBN AU\/UK:<\/strong> 9781743603901\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 265mm x 190mm",
+        "imgs": [
+            "http:\/\/assets.staticlp.com\/assets\/covers\/how-to-be-a-space-explorer-1-rs-5f74f316041501b2615a0fefd05971bf.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-01-480be5fd2d71fbaddb4bbfface20ea04.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-02-d2e2fd9854ea8c0ac625c8fd68d94135.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-03-97c6979304595318f02988d6dea99d36.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-04-ac99a9aff8152e8a73d56109736e9b9e.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-05-20421e7321d94b4c5d4761a101c5e33a.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-06-f2eafba15b1460d495cf5c5644325b59.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-07-4a995eb82d92b1a4921f2d2a4a9c7001.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-08-beb416d709505f4b3385252ea3096b06.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-09-ada2577b2d73c7fb608c89ff895cf166.jpg",
+            "http:\/\/assets.staticlp.com\/assets\/spreads\/Space-10-b8f6feacc00e2802db63950760106cd7.jpg"
+        ],
+        "video": "\/\/player.vimeo.com\/video\/104445947",
+        "ebook_text": "eBook available on iBooks and Amazon"
+    },
+    {
+        "book_url": "\/kids\/books\/6",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Not For Parents: Africa",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-africa-1-rs-e778b3cb8b1105bf98cadc37b7fd0624.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-africa\/",
+        "description": "Let your African adventure begin! Read fascinating tales about Dogon warriors, fearless explorers, Nollywood film stars, crazy coffins, Egyptian tombs and witch doctors. Check out cool stories about Tuareg nomads, the world's biggest diamond, killer crocodiles and eccentric dictators. You'll find thumb pianos and mummified monkeys, camel caravans, a golden death mask, a seriously tough desert race and history galore. This book shows you an Africa your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219119\n<strong>ISBN AU\/UK:<\/strong> 9781743219096\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/7",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Not For Parents: Asia",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-asia-1-rs-3e7750e7f4ae7fac30de8cf7ede3b873.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-asia\/",
+        "description": "Let your Asian adventure begin! Read fascinating tales about Samurai warriors and Bollywood legends, fabulous carpets, explosive volcanoes and modern-day pirates. Check out cool stories about hunting with golden eagles, dog astronauts, guerilla warfare and eccentric dictators. You'll find holy cows, purple people, some seriously tough mountain folk and history galore. This book shows you an Asia your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219102\n<strong>ISBN AU\/UK:<\/strong> 9781743219126\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/8",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: Australia",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-australia-1-rs-eda4cd95c78e6861a7798d6e8ad7bf09.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pacific\/not-for-parents-australia\/",
+        "description": "Let your Australian adventure begin! Read fascinating tales about toothy sharks, giant rocks and snappy crocs, bushranger baddies and explorers galore. Check out cool stories about a famous coat hanger, underground hotels, a super-fast horse and a very rough race. You'll find flying doctors and flying fruit flies, flesh-eating spiders and thieving convicts. This book shows you an Australia your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214220\n<strong>ISBN AU\/UK:<\/strong> 9781743214183\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/9",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: China",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-china-1-rs-20eb242b154357f017f7fae526d9eb4d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/china\/not-for-parents-china\/",
+        "description": "Let your Chinese adventure begin! Read fascinating tales about ancient empires, martial arts, the discovery of gunpowder and the first cup of tea. Check out cool stories about ice sculptures, dust storms, bloodthirsty warriors and dragons. You'll find acrobats, fighting crickets, futuristic buildings and some seriously weird snacks. This book shows you a China your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214275\n<strong>ISBN AU\/UK:<\/strong> 9781743214268\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/10",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Not For Parents: Europe",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-europe-1-rs-e71983e9fb152cb845705baafee15252.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-europe\/",
+        "description": "Let your European adventure begin! Read about bizarre pastimes from wok racing and mobile phone hurling to grown-up food fights and rotten shark chomping. You'll learn the gruesome facts about some of history's most bloodthirsty rulers and check out sculptures made of human bones, the world's biggest pizza, ultra-cool ice hotels, and a metal-munching Frenchman. This book shows you a Europe your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219140\n<strong>ISBN AU\/UK:<\/strong> 9781743219133\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/11",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£14.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$29.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$19.99"
+            }
+        ],
+        "title": "Not For Parents: Extreme Planet",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-Extreme-Planet-1-rs-f5f56cc4fca56f04e3dc9c0e9e42b4dd.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-extreme-planet\/",
+        "description": "Hang on for the ride of your life! Extreme Planet is a whirlwind tour of the globe, seeking out the hottest, wettest, deepest, coldest, highest, driest, windiest, and all-around wildest places. What's the longest place name? The oldest vomit? Most dangerous food to eat? What are the biggest, smallest, smelliest, slimiest, weirdest and kookiest critters in the world? Find them all in here!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214244\n<strong>ISBN AU\/UK:<\/strong> 9781743214107\n<strong> 192 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/12",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: Great Britain",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-britain-1-rs-b379d8fcb51bfb980804c480ce495dc0.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-great-britain\/",
+        "description": "Let your British adventure begin! Read fascinating tales about kids down in mines, battles on the football field, secret stones and kings and queens galore. Check out cool stories about a famous spy, an underwater monster, a flying Scotsman and a flying great grandmother. You'll find hats and bats, crazy laws, royal limos and some amazing legends. This book shows you a Great Britain your parents probably don't even know about!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214213\n<strong>ISBN AU\/UK:<\/strong> 9781743214169\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/13",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£12.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$24.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$17.99"
+            }
+        ],
+        "title": "Not For Parents: How to be a Dinosaur Hunter",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-htb-dinosaur-hunter-1-rs-3cbed5421372f4690916389d71215dd0.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-how-to-be-a-dinosaur-hunter\/",
+        "description": "Get ready to journey through space and time. This book will show you where and how to find dinosaur remains, ranging from bones and teeth to eggs and footprints. It will also take you far back into Earth's prehistoric past to find out when, where, and how dinosaurs lived—and bring you face to face with some of the biggest, scariest and weirdest creatures that ever roamed our planet.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219089\n<strong>ISBN AU\/UK:<\/strong> 9781743219072\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/15",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£12.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$24.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$17.99"
+            }
+        ],
+        "title": "Not For Parents: How to be a World Explorer",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-HTB-W-Explorer-1-rs-76de925127a9681365a6bc4f1c984678.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-hot-to-be-a-world-explorer\/",
+        "description": "It's a wonderful world out there just waiting to be discovered, but are you ready to be an explorer? This book will teach you everything you need to know to venture through all the landscapes on Earth. You'll learn how to cope with searing heat and intense cold, find food and water in the wild, and fight back against man-eating beasts. Soon you'll have no excuses—get out there and explore!",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214251\n<strong>ISBN AU\/UK:<\/strong> 9781743214091\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/17",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: London",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-London-1-rs-27b15fb0a174a1045d588723b411d4da.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-london\/",
+        "description": "Let your London adventure begin! Read fascinating tales about famous and infamous people, creepy underground places, dark history and strange characters galore. Check out cool stories about graffiti artists, murdered princes and people from all over. You’ll find royalty, punks and sleuths, and some amazingly weird food. This book shows you a London your parents probably don’t even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781742208169\n<strong>ISBN AU\/UK:<\/strong> 9781742204994\n<strong>ISBN eBook:<\/strong> 9781742208572\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": "eBook available on iBooks."
+    },
+    {
+        "book_url": "\/kids\/books\/18",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£19.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$39.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$29.99"
+            }
+        ],
+        "title": "Not For Parents: Mega Cities Box Set",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-box-set-rs-a142e9ad1859f7f31631ba4d1616786d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-box-set\/",
+        "description": "This box set includes four books: Not For Parents: London, Not For Parents: New York, Not For Parents: Paris and a bonus Travel Activity book! Read fascinating tales about towering skyscrapers, huge castles and ghostly railway stations. This is everything you ever wanted to know about the world's most famous cities.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214800\n<strong>ISBN AU\/UK:<\/strong> 9781743214794\n<strong> 288 <\/strong> pages | <strong>Dimensions:<\/strong> Other",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/19",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: New York",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-New-York-City-1-rs-48eccf2e9359d95b25b35b8fd5d326ba.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-new-york-US\/",
+        "description": "Let your New York adventure begin! Read fascinating tales about towering skyscrapers and deep subways, a naked cowboy, and the Yankees loudest fans. Check out cool stories about hot dogs and snapping alligators, bulls in the stock exchange and sports on the street. You’ll find superheroes, famous battles, cops, cooks, and millions of rats. This book shows you a New York your parents probably don't even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781742208152\n<strong>ISBN AU\/UK:<\/strong> 9781742204970\n<strong>ISBN eBook:<\/strong> 9781742208565\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": "eBook available on iBooks."
+    },
+    {
+        "book_url": "\/kids\/books\/20",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$19.99"
+            }
+        ],
+        "title": "Not For Parents: Paris",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-Paris-1-rs-01f80bd96acba8975d9b6b18488c1e9d.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-paris\/",
+        "description": "Let your Paris adventure begin! Read fascinating tales about creepy stone gargoyles, ghostly railway stations, huge castles and amazingly pampered pets. Check out cool stories about stuffed animals, caves filled with bones and the deadly guillotine. You’ll find cyclists, junk collectors and musicians, and snails on the menu for dinner. This book shows you a Paris your parents probably don’t even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781742208176\n<strong>ISBN AU\/UK:<\/strong> 9781742205007\n<strong>ISBN eBook:<\/strong> 9781742208589\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": "eBook available on iBooks."
+    },
+    {
+        "book_url": "\/kids\/books\/21",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£14.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$29.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$19.99"
+            }
+        ],
+        "title": "Not For Parents: The Real Wonders of the World",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-real-wonders-of-the-world-1-rs-cc3ef6899108ca8f179361f781c891a6.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-real-wonders-of-the-world\/",
+        "description": "Uncover the most awe-inspiring places and experiences on the planet. This book takes you to a crazy collection of wondrous world locations picked for their wow factor but also for their weirdness factor, from the creepy catacombs of Paris and super-secure Fort Knox to a robot restaurant in China and the International Space Station. Read fantastic facts, be stunned by the truly surprising, and let your mind be blown by the magical and the amazing. The world is a wonderful planet in ways you never imagined.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743217344\n<strong>ISBN AU\/UK:<\/strong> 9781743217337\n<strong> 160 <\/strong> pages | <strong>Dimensions:<\/strong> 305mm x 230mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/22",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: Rome",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-Rome-1-rs-7eb1a0b0810bbf90f22fee7c67ad1d5c.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-rome\/",
+        "description": "Let your Rome adventure begin! Read fascinating tales about ancient gladiators and modern footballers, crazy traffic, yummy food and gruesome history. Check out cool stories about fighting with wild animals, spooky stone statues, drag racing Roman style and lucky fountains. You'll find zippy motor scooters, fashion freaks, some seriously ancient bridges and ice cream flavours galore. This book shows you a Rome your parents probably don't even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781742208183\n<strong>ISBN AU\/UK:<\/strong> 9781742204987\n<strong>ISBN eBook:<\/strong> 9781742208596\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": "eBook available on iBooks."
+    },
+    {
+        "book_url": "\/kids\/books\/23",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£7.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$12.99"
+            }
+        ],
+        "title": "Not For Parents: South America",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-south-america-1-rs-b351715b52f9a1c3a4d3e8fe1abe3986.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/not-for-parents-south-america\/",
+        "description": "Let your South American adventure begin! Read fascinating tales about wrestling ladies and man-eating fish, lost cities, intrepid explorers and remarkable survivals. Check out cool stories about the real Robinson Crusoe, a navy without an ocean, rivers that shimmer with colours and floating islands. You'll find dirty dancing, fowl play, daring prison escapes and history galore. This book shows you a South America your parents probably don't even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219164\n<strong>ISBN AU\/UK:<\/strong> 9781743219157\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/25",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "Not For Parents: USA",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/nfp-usa-1-rs-457c05e56a85ee819d8b81958ba567d6.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/pictorials-and-gifts\/not-for-parents-usa-us\/",
+        "description": "Let your American adventure begin! Read fascinating tales about the Wild West, cockroach races, a massive canyon and weddings in Vegas. Check out cool stories about candy bars and movie stars, beauty queens and blue jeans. You'll find astronauts, gangsters, pilgrims and some amazingly heroic dogs. This book shows you an America your parents probably don't even know about.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743214237\n<strong>ISBN AU\/UK:<\/strong> 9781743214176\n<strong> 96 <\/strong> pages | <strong>Dimensions:<\/strong> 210mm x 165mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/26",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "World Search: Amazing Jobs",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/world-search-amazing-jobs-1-rs-a17d48bf4617640d23f8ec65fc324fe6.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/world-search-amazing-jobs\/",
+        "description": "Travel the world and discover some of the most amazing jobs on the planet with this lift-the-flap book. See what it takes to be a stuntman on a Bollywood film set, a park ranger in Yellowstone National Park and a Royal Flying Doctor in the Australian Outback. With more than 40 flaps to lift, World Search: Amazing Jobs is a hands-on book with loads of hidden surprises.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219201\n<strong>ISBN AU\/UK:<\/strong> 9781743219195\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 280mm x 216mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/27",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "World Search: Busy Places",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/world-search-busy-places-rs-dd2bbc26b8a673849290f8a6c0bd61b4.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/world-search-busy-places\/",
+        "description": "Travel the world and discover the weird and wonderful things that happen in busy places with this lift-the-flap book. Explore seven real cities – including Rio de Janeiro, Brazil; Marrakech, Morocco; and Shanghai, China – and watch as people play on the beach, browse colourful markets, fly kites and helicopters and more! With more than 40 flaps to lift, World Search: Busy Places is a hands-on book with loads of hidden surprises.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219188\n<strong>ISBN AU\/UK:<\/strong> 9781743219171\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 280mm x 216mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    },
+    {
+        "book_url": "\/kids\/books\/28",
+        "prices": [
+            {
+                "currency_code": "UK",
+                "price": "£9.99"
+            },
+            {
+                "currency_code": "AUD",
+                "price": "$19.99"
+            },
+            {
+                "currency_code": "USD",
+                "price": "$14.99"
+            }
+        ],
+        "title": "World Search: Incredible Animals",
+        "preview_img": "http:\/\/assets.staticlp.com\/assets\/covers\/world-search-incredible-animals-1-rs-9ad9aaa9d8866385a8fa0f3e26b8d532.jpg",
+        "buy_url": "http:\/\/shop.lonelyplanet.com\/world\/world-search-incredible-animals\/",
+        "description": "Take your imagination on a safari and discover the most incredible animals on the planet with this lift-the-flap book. Explore seven real habitats – including the Andes Mountains, the Indian jungle and the African savanna – and find peacocks, porcupines, iguanas and more! With more than 40 flaps to lift, World Search: Incredible Animals is a hands-on book with loads of hidden surprises.",
+        "meta_data": "<strong>ISBN US:<\/strong> 9781743219225\n<strong>ISBN AU\/UK:<\/strong> 9781743219218\n<strong> 16 <\/strong> pages | <strong>Dimensions:<\/strong> 280mm x 216mm",
+        "imgs": [],
+        "video": null,
+        "ebook_text": ""
+    }
+]

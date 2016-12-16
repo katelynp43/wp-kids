@@ -1,0 +1,184 @@
+[
+    {
+        "title": "The Travel Book",
+        "description": "Test your worldly knowledge by matching the facts up with the correct countries, inspired by Lonely Planet Kids Travel Book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/AroundtheWorld1-47aa1290e6b5d4f874883637b1760476.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-AroundtheWorld.pdf"
+    },
+    {
+        "title": "Pop-Up Cities",
+        "description": "Get creative and draw your favourite landmark or design your own and then tell us all about it. It can be anywhere in the world and you can do whatever you want with it. Inspired by our new Pop-Up books.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Landmark-6940736ff288cf6a4aa19e81dffb7fcf.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-DesignALandmark.pdf"
+    },
+    {
+        "title": "Design Your Own Planet",
+        "description": "Grab your colouring pens and let your imagination run wild by creating your very own planet, inspired by our How to be a Space Explorer book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Planet-ebc1804d654544dacc77e236d3685d60.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-DesignYourOwnPlanet.pdf"
+    },
+    {
+        "title": "How to be an International Spy",
+        "description": "Become a secret agent and complete your very own top secret agent file, inspired by our How to be an International Spy book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Spy1-aa5fa92127cee183f9c0c77894d0847b.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-InternationalSpy.pdf"
+    },
+    {
+        "title": "Let's Explore",
+        "description": "Go wild and create some imaginative patterns by colouring in the animals. Inspired by our Let's Explore activity books.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/LetsExplore-eaee9015795aa8a3ce5e4a37a6b6bf4f.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-LetsExploreColouring.pdf"
+    },
+    {
+        "title": "Boredom Buster",
+        "description": "Get the whole family involved and let your collective imagination run wild by taking it in turns to complete the story using words and pictures, inspired by our Boredom Buster book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Story1-63c3619e63be3a08a4f9f8bff28490fb.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-StoryStarter.pdf"
+    },
+    {
+        "title": "World Tour",
+        "description": "Put your thinking caps on and grab your colouring pens to complete this round the world tour.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/WorldTour1-bad791bac573c3d1ecbd5916a82f67d6.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-WorldTour.pdf"
+    },
+    {
+        "title": "You Rule!",
+        "description": "Dust off your crown and throw on those robes to become King or Queen of your very own country by following these steps, inspired by our You Rule! book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/YouRule-5cb69611c1326681d1e06857b425d2a3.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-YouRule.pdf"
+    },
+    {
+        "title": "Flower Pressing: Festival of Roses",
+        "description": "Try your hand at preserving beautiful roses with this rose-pressing activity to celebrate the Moroccan Festival of Roses.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/FestofRoses-4613301a25e649aff0c1feaa972d4ecf.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-FestivalofRoses.pdf"
+    },
+    {
+        "title": "Junkanoo Street Festival Headpiece",
+        "description": "Grab some colourful feathers and any bright, sparkly accessories you can find to make a vibrant Junkanoo headpiece to celebrate the Bahamas colourful street festival in December.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Junkanoo-6bab43b2c5b754f222c15ba9d9091c94.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity-JunkanooHeadpiece.pdf"
+    },
+    {
+        "title": "Amazing World Atlas",
+        "description": "Test your geography knowledge with fun games and activities inspired by our book, Amazing World Atlas.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_atlas-ca5a0f807ccd6d60a5180136200157dd.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_atlas.pdf"
+    },
+    {
+        "title": "How to be a Space Explorer",
+        "description": "Prepare for an epic journey into outer space with fun games and activities inspired by our book, How to be a Space Explorer.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_space-5e143efd4872e96c01cec99d77c3e3df.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_space.pdf"
+    },
+    {
+        "title": "Adventures in Cold Places",
+        "description": "Get warmed up with fun and colourful games, mazes and more – all inspired by our sticker book, Adventures in Cold Places.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_cold_places-ac2e32446606d129c4c891cf06818e56.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_cold.pdf"
+    },
+    {
+        "title": "Adventures in Busy Places",
+        "description": "Get busy with fun and colourful games, mazes and more – all inspired by our sticker book, Adventures in Busy Places.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_busy_places-2e7807e8c67b60c75d77eb1aa66e4b56.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_busy.pdf"
+    },
+    {
+        "title": "Adventures in Wild Places",
+        "description": "Go wild with fun and colourful games, mazes and more – all inspired by our sticker book, Adventures in Wild Places.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_wild_places-2ddb3dd13abb99c06e73a14a2750bb3f.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_wild.pdf"
+    },
+    {
+        "title": "How to be a World Explorer",
+        "description": "Test your survival skills with fun games and activities inspired by our book, How to be a World Explorer.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_worldexplorer-ef0c62af57c82f2cb20f9ae8920721c9.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_world_explorer.pdf"
+    },
+    {
+        "title": "Extreme Planet",
+        "description": "Discover a world of extremes with fun games and activities inspired by our book, Extreme Planet.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_Sheet_extreme-6fdfae801820c18b3740754d8d09a9f0.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_extreme_planet.pdf"
+    },
+    {
+        "title": "Adventures in Smelly Places",
+        "description": "Download our fun and colourful sheets with games, mazes and more - taken from our Adventures in Smelly Places book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_smelly-2717ac335d78eac02e3b4fe6e46394e7.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_smelly.pdf"
+    },
+    {
+        "title": "Adventures in Famous Places",
+        "description": "Download our fun and colourful sheets with games, mazes and more - taken from our Adventures in Famous Places book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_famous-e66d99d46faf479a5ef809134d77a454.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_famous.pdf"
+    },
+    {
+        "title": "Adventures in Noisy Places",
+        "description": "Download our fun and colourful sheets with games, mazes and more - taken from our Adventures in Noisy Places book.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_noisy-482440da0326cd6e6863b53377731d53.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/activity_noisy.pdf"
+    },
+    {
+        "title": "You Rule! event for book groups and bookshops",
+        "description": "Download our fun and engaging You Rule! event to run in your book shop or with your book group.  The pack includes everything you need to run an hour long session including templates, a script for the leader, and clear instructions.  The event activities are aimed at kids aged 8 - 12 but it includes activities for younger children too.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/Activity_You_Rule1-f0263b9b981124a975f25802c91d7c56.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/You_Rule_All_Book_Groups.zip"
+    },
+    {
+        "title": "You Rule! activity sheets (US spelling)",
+        "description": "Download our complete set of You Rule activity sheets. Young nation-builders will choose their country's location, government, leader, name, values, rights, and laws, declare independence, establish borders, write an anthem and pledge, and design an emblem, flag, postcard, and passport.",
+        "category": "Activity Sheets",
+        "image": "http:\/\/assets.staticlp.com\/assets\/activities\/USYouRulePackCover-70f89e1fc94ed90abc4ebdc1b57b0b9f.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/US_Version_of_You_Rule_Activity_Sheets.pdf"
+    },
+    {
+        "title": "Real Wonders",
+        "description": "Inspired by our weird and wonderful Not-for-Parents books including How to be a Dinosaur Hunter and Real Wonders of the World, this pack is filled with lesson plans, worksheets and exciting curriculum-linked activities to support KS2 literacy and humanities teaching.",
+        "category": "Teaching Guide (UK)",
+        "image": "http:\/\/assets.staticlp.com\/assets\/classroom\/real_wonders-be745209567ba3e50255f610b997cc81.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/travel-book-teacher-guide.pdf"
+    },
+    {
+        "title": "English Language Arts",
+        "description": "Address reading, writing, listening, and speaking standards by incorporating our books into your curriculum.  This guide is packed with exciting activity and lesson ideas that specifically address English Language Arts guidelines.",
+        "category": "Teaching Guide (Universal)",
+        "image": "http:\/\/assets.staticlp.com\/assets\/classroom\/Classroom_ELA-2172afc1ba9d00d2a92145740829cd0c.jpg",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/ela-teacher-guide.pdf"
+    },
+    {
+        "title": "UK You Rule! Classroom resource",
+        "description": "This pack will help KS2 teachers use You Rule! to inspire curiosity about the world and its people.  It includes resources to help you run a series of lessons or a themed day based on nation building.  The fun, hands-on activities will get your KS2 pupils thinking about democracy and the differences between nations.",
+        "category": "Teachers Resource Pack",
+        "image": "http:\/\/assets.staticlp.com\/assets\/classroom\/YouRule-UKTeachers-ffbc27f34ccbdadc10d91a7b4cab7fa1.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/YouRule-UKResourcePack.pdf"
+    },
+    {
+        "title": "US library \/ school event pack You Rule!",
+        "description": "Download our US library\/school event pack aimed at kids aged 8-12. This is an inspiring, educational event where kids can build brand-new nations within your library or school! By choosing a government, creating laws, designing a flag, and more, kids will learn about civic education in a fun environment. Includes a flyer to promote your event, and raffle tickets.",
+        "category": "Teachers Resource Pack",
+        "image": "http:\/\/assets.staticlp.com\/assets\/classroom\/YouRule-USTeachers-393cd5df03a1579f0d55df2bd1f9165e.png",
+        "file": "http:\/\/assets.staticlp.com\/kids\/pdf\/YouRule-USEventPack.pdf"
+    }
+]

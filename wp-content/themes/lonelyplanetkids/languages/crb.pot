@@ -1,0 +1,650 @@
+# Use this file to create custom theme translations
+# To create a theme translation:
+# 1) Import this file in your PoEdit.
+# 2) Translate all strings
+# 3) Save the translation with the same name as your locale (for example bg_BG)
+# 4) Move the result .po/.mo files in /languages
+msgid ""
+msgstr ""
+"Project-Id-Version: Base\n"
+"POT-Creation-Date: 2015-08-20 17:48+0200\n"
+"PO-Revision-Date: 2015-08-20 17:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+#, php-format
+msgid ""
+"<p>Please check the URL for proper spelling and capitalization.<br />If "
+"you're having trouble locating a destination, try visiting the <a href=\"%1$s"
+"\">home page</a>.</p>"
+msgstr ""
+
+#: comments.php:20
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:20
+msgid "One Response"
+msgstr ""
+
+#: comments.php:20
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:46
+msgid "Leave a Reply"
+msgstr ""
+
+#: fragments/post/meta.php:16
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: fragments/post/meta.php:19
+msgid "Posted in "
+msgstr ""
+
+#: fragments/post/meta.php:22
+msgid "No Comments"
+msgstr ""
+
+#: fragments/post/meta.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: fragments/post/meta.php:22
+msgid "% Comments"
+msgstr ""
+
+#: fragments/post/meta.php:27
+msgid "Tags:"
+msgstr ""
+
+#: includes/comments.php:14
+msgid "says:"
+msgstr ""
+
+#: includes/comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/comments.php:23
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/comments.php:25
+msgid "(Edit)"
+msgstr ""
+
+#: includes/title.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/title.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: includes/title.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: includes/title.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: includes/title.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: includes/title.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: includes/title.php:28
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: includes/title.php:30
+msgid "Archives"
+msgstr ""
+
+#: includes/title.php:32
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Container.php:524
+msgid "General"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Container.php:707
+msgid "Please fill out all required fields highlighted below."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Container.php:708
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Container_ThemeOptions.php:124
+msgid "Settings saved."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:854
+#: lib/carbon-fields/Carbon_Field.php:2081
+msgid "Files"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:855
+msgid "The address could not be found. "
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:856
+msgid "Geocode was not successful for the following reason: "
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:857
+#, php-format
+msgid "Maximum number of items reached (%s items)"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:858
+#, php-format
+msgid "Maximum number of rows reached (%s rows)"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:859
+#, php-format
+msgid "Cannot create more than %s rows"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:860
+msgid "Please enter the name of the new sidebar:"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:861
+msgid "Are you sure you wish to remove this sidebar?"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:862
+msgid "Add Sidebar"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:863
+#, php-format
+msgid "There are no %s yet. Click <a href=\"#\">here</a> to add one."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:864
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:865
+#, php-format
+msgid "Minimum number of rows not reached (%d %s)"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:867
+msgid "Please fill out all fields correctly. "
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:868
+msgid "This field is required. "
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:869
+msgid "Please choose an option. "
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:953
+#: lib/carbon-fields/Carbon_Field.php:954
+msgid "Add Media"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:965
+msgid "Visual"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:968 options/widgets.php:85
+msgid "Text"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1026
+msgid "Date"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1056
+msgid "Select a Color"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1104
+msgid "Locate Address on the map"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1109
+msgid "Find"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1274
+#: lib/carbon-fields/Carbon_Field.php:1297
+#: lib/carbon-fields/Carbon_Field.php:1487
+msgid "no options"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1363
+msgid "If you need to add scripts to your header, you should enter them here."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1386
+msgid ""
+"If you need to add scripts to your footer (like Google Analytics tracking "
+"code), you should enter them in this box."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1506
+msgid "Show All Options"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1687 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:1700
+msgid "Associated:"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2079
+#: lib/carbon-fields/Carbon_Field.php:2080
+msgid "Select File"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2157
+msgid "View File"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2204
+#: lib/carbon-fields/Carbon_Field.php:2205
+msgid "Select Image"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2206
+msgid "Images"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2227
+msgctxt "sidebar"
+msgid "Add New"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2492
+msgid "No form"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2517
+msgid "Please install Gravity Forms plugin"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field.php:2523
+msgid "No Gravity Forms have been found."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:21
+msgid "Entry"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:22
+msgid "Entries"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:384
+msgid "Collapse/Expand"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:385
+msgid "Clone"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:386
+msgid "Remove"
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Field_Complex.php:417
+msgid ""
+"Complex field layouts are deprecated, please use <code>set_width()</code> "
+"instead."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Sidebar_Manager.php:103
+msgid "Sidebar with the same ID is already registered."
+msgstr ""
+
+#: lib/carbon-fields/Carbon_Sidebar_Manager.php:130
+msgid "Sidebar not found."
+msgstr ""
+
+#: lib/carbon-fields/admin-templates/container-theme-options.php:31
+msgid "Actions"
+msgstr ""
+
+#: lib/carbon-fields/admin-templates/container-theme-options.php:37
+msgid "Save Changes"
+msgstr ""
+
+#: lib/carbon-fields/admin-templates/container-widget.php:5
+msgid "No options are available for this widget."
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:313
+#, php-format
+msgid "The field %s is required. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:316
+#, php-format
+msgid "Please enter valid email address in the %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:319
+#, php-format
+msgid ""
+"The email address \"%s\" is already registered. Please enter a different "
+"email in the %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:322
+#, php-format
+msgid ""
+"The username \"%s\" is already registered. Please enter a different username "
+"in the %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:325
+#, php-format
+msgid "The field %s doesn't match the required format."
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:328
+#, php-format
+msgid "Please enter numeric value in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:331
+#, php-format
+msgid "Please enter at least %d characters in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:334
+#, php-format
+msgid "Please enter less than %d characters in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:337
+#, php-format
+msgid "Please enter number greater than %d in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:340
+#, php-format
+msgid "Please enter number lower than %d in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:343
+#, php-format
+msgid "Please valid URL in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:347
+#, php-format
+msgid "Please upload file in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:350
+#, php-format
+msgid "Please upload file with %s format in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:354
+#, php-format
+msgid "Please upload file smaller than %s in %s field. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:357
+#, php-format
+msgid "Confirmation for %s field isn't correct. "
+msgstr ""
+
+#: lib/carbon-validator/Carbon_Validator.php:360
+#, php-format
+msgid "Invalid value for %s field. "
+msgstr ""
+
+#: lib/theme-help/theme-readme.php:7
+msgid "Theme Help"
+msgstr ""
+
+#: lib/theme-help/theme-readme.php:14
+msgid "Summary"
+msgstr ""
+
+#: lib/twitter/functions.php:70
+#, php-format
+msgid ""
+"You've inserted a \"Latest Tweets\" widget, but it will not work unless you "
+"configure your twitter settings. In order to do that, go to %sTheme Options "
+"&raquo; Twitter Settings%s"
+msgstr ""
+
+#: lib/twitter/functions.php:88
+msgid ""
+"Warning: You seem to have configured your Twitter settings, but they are "
+"invalid. Please configure them in order to be able to use the \"Latest Tweets"
+"\" widget."
+msgstr ""
+
+#: lib/twitter/functions.php:92
+#, php-format
+msgid "In order to do that, go to %sTheme Options &raquo; Twitter Settings%s"
+msgstr ""
+
+#: loop-single.php:12 page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: loop-single.php:19
+msgid "&laquo; %link"
+msgstr ""
+
+#: loop-single.php:20
+msgid "%link &raquo;"
+msgstr ""
+
+#: loop.php:6
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: loop.php:14
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: loop.php:22
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: loop.php:23
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: loop.php:32
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr ""
+
+#: loop.php:34
+msgid "Sorry, but there aren't any posts with this date."
+msgstr ""
+
+#: loop.php:37
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr ""
+
+#: loop.php:39
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: loop.php:41
+msgid "No posts found."
+msgstr ""
+
+#: options/theme-options.php:3 options/theme-options.php:11
+msgid "Theme Options"
+msgstr ""
+
+#: options/theme-options.php:5
+msgid "Header Script"
+msgstr ""
+
+#: options/theme-options.php:6
+msgid "Footer Script"
+msgstr ""
+
+#: options/theme-options.php:16
+msgid ""
+"Twitter API requires a Twitter application for communication with 3rd party "
+"sites. Here are the steps for creating and setting up a Twitter application:"
+msgstr ""
+
+#: options/theme-options.php:18
+#, php-format
+msgid ""
+"Go to <a href=\"%1$s\" target=\"_blank\">%1$s</a> and log in, if necessary."
+msgstr ""
+
+#: options/theme-options.php:19
+msgid ""
+"Supply the necessary required fields and accept the <strong>Terms of "
+"Service</strong>. <strong>Callback URL</strong> field may be left empty."
+msgstr ""
+
+#: options/theme-options.php:20
+msgid "Submit the form."
+msgstr ""
+
+#: options/theme-options.php:21
+msgid ""
+"On the next screen, click on the <strong>Keys and Access Tokens</strong> tab."
+msgstr ""
+
+#: options/theme-options.php:22
+msgid ""
+"Scroll down to <strong>Your access token</strong> section and click the "
+"<strong>Create my access token</strong> button."
+msgstr ""
+
+#: options/theme-options.php:23
+msgid ""
+"Copy the following fields: <strong>Consumer Key, Consumer Secret, Access "
+"Token, Access Token Secret</strong> to the below fields."
+msgstr ""
+
+#: options/theme-options.php:27
+msgid "Consumer Key"
+msgstr ""
+
+#: options/theme-options.php:29
+msgid "Consumer Secret"
+msgstr ""
+
+#: options/theme-options.php:31
+msgid "Access Token"
+msgstr ""
+
+#: options/theme-options.php:33
+msgid "Access Token Secret"
+msgstr ""
+
+#: options/widgets.php:17
+msgid "Rich Text"
+msgstr ""
+
+#: options/widgets.php:17
+msgid "Displays a block with title and WYSIWYG content."
+msgstr ""
+
+#: options/widgets.php:18 options/widgets.php:44 options/widgets.php:84
+msgid "Title"
+msgstr ""
+
+#: options/widgets.php:19
+msgid "Content"
+msgstr ""
+
+#: options/widgets.php:43
+msgid "Latest Tweets"
+msgstr ""
+
+#: options/widgets.php:43
+msgid "Displays a block with your latest tweets"
+msgstr ""
+
+#: options/widgets.php:45
+msgid "Username"
+msgstr ""
+
+#: options/widgets.php:46
+msgid "Number of Tweets to show"
+msgstr ""
+
+#: options/widgets.php:68
+#, php-format
+msgid "%1$s ago"
+msgstr ""
+
+#: options/widgets.php:83
+msgid "Theme Widget - Example"
+msgstr ""
+
+#: options/widgets.php:83
+msgid "Displays a block with title/text"
+msgstr ""
+
+#: page.php:11
+msgid "Read the rest of this page &raquo;"
+msgstr ""
+
+#: page.php:11
+msgid "<p class=\"serif\">"
+msgstr ""
+
+#: page.php:15
+msgid "Edit this entry."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""

@@ -1,0 +1,22 @@
+{
+    "type": "project",
+    "require": {
+        "htmlburger/carbon-pagination": "1.1.*",
+        "htmlburger/carbon-fields": "1.2.*",
+        "htmlburger/carbon-common": "1.0.*",
+        "htmlburger/carbon-fragment": "1.0.*",
+        "htmlburger/carbon-video": "1.0.*",
+        "htmlburger/theme-help": "1.0.*",
+        "htmlburger/twitter-helper": "^1.0",
+        "pkostadinov-2create/carbon-field-number": "^1.0"
+    },
+    "require-dev": {
+        "htmlburger/carbon-debug": "1.0.*"
+    },
+    "config": {
+        "secure-http": false,
+        "github-oauth": {
+            "github.com": "60c91b6cd016dc2947926b9fe71a17210ee6ca16"
+        }
+    }
+}

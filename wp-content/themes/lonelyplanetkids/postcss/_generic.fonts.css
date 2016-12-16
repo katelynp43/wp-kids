@@ -1,0 +1,45 @@
+/* ------------------------------------------------------------ *\
+	Fonts
+\* ------------------------------------------------------------ */
+
+@font-face {
+	font-family:'WebtypeWebUseOnly-Regular';
+	src: url('fonts/WebtypeWebUseOnly_gdi.eot');
+	src: url('fonts/WebtypeWebUseOnly_gdi.eot?#iefix') format('embedded-opentype'),
+		url('fonts/WebtypeWebUseOnly_gdi.woff') format('woff'),
+		url('fonts/WebtypeWebUseOnly_gdi.ttf') format('truetype'),
+		url('fonts/WebtypeWebUseOnly_gdi.otf') format('opentype'),
+		url('fonts/WebtypeWebUseOnly_gdi.svg#WebtypeWebUseOnly-Regular') format('svg');
+	font-style: 400;
+}
+
+@font-face {
+	font-family: 'FreightSans Pro Bold';
+	src: url('fonts/FreightSansProBold-Regular.eot');
+	src: url('fonts/FreightSansProBold-Regular.eot?#iefix') format('embedded-opentype'),
+		url('fonts/FreightSansProBold-Regular.woff') format('woff'),
+		url('fonts/FreightSansProBold-Regular.ttf') format('truetype');
+	font-style: 700;
+}
+
+@font-face {
+	font-family: 'FreightSans Pro Medium';
+	src: url('fonts/FreightSansProMedium-Regular.eot');
+	src: url('fonts/FreightSansProMedium-Regular.eot?#iefix') format('embedded-opentype'),
+		url('fonts/FreightSansProMedium-Regular.woff') format('woff'),
+		url('fonts/FreightSansProMedium-Regular.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FreightSans Pro Semibold';
+	src: url('fonts/FreightSansProSemibold-Regular.eot');
+	src: url('fonts/FreightSansProSemibold-Regular.eot?#iefix') format('embedded-opentype'),
+		url('fonts/FreightSansProSemibold-Regular.woff') format('woff'),
+		url('fonts/FreightSansProSemibold-Regular.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
